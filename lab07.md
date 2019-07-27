@@ -1,4 +1,4 @@
-# Length 4
+# L4
 ### Code
 ```python
 """
@@ -122,7 +122,7 @@ make
 take
 
 ```
-# Length 5  
+# L5  
 ### Code
 ```python
 """
