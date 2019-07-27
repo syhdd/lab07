@@ -1,4 +1,4 @@
-# Length 5
+# Length 5  
 ## Output
 ```
 Loaded words_dat.txt containing 5757 five-letter English words.
